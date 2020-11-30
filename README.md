@@ -1,5 +1,5 @@
 # StoreCalculator
-Write a python project which will keep adding a stream of number inputted by the user. The adding stops as soon as user press q key on the keyboard
+A python project which will keep adding a stream of number inputted by the user. The adding stops as soon as user press q key on the keyboard.
 
 <h1>Store Calculator</h1>
 
